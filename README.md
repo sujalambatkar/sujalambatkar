@@ -13,11 +13,11 @@
 
 ## About Me
 
-- 🔭 I build **production-ready AI applications** — from intelligent agents to RAG pipelines
-- ⚡ Full-stack background with **React** on the frontend and **FastAPI** on the backend
-- 🗄️ Comfortable with both relational (**PostgreSQL**) and document (**MongoDB**) databases
-- 🤖 Deep experience with **LLMs, prompt engineering, vector search, and model fine-tuning**
-- 📬 **Open to AI/ML roles** — GenAI Engineer, Full-Stack AI Developer, or anything AI-related
+- I build **production-ready AI applications** — from intelligent agents to RAG pipelines
+- Full-stack background with **React** on the frontend and **FastAPI** on the backend
+- Comfortable with both relational (**PostgreSQL**) and document (**MongoDB**) databases
+- Deep experience with **LLMs, prompt engineering, vector search, and model fine-tuning**
+- **Open to AI/ML roles** — GenAI Engineer, Full-Stack AI Developer, or anything AI-related
 
 ---
 
