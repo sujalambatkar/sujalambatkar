@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sujal 👋</h1>
+<h1 align="center">Hey, I'm Sujal</h1>
 
 <p align="center">
   <b>Full-Stack AI Engineer &nbsp;·&nbsp; GenAI | LLMs | RAG | Agents | Fine-tuning</b><br/>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔭 I build **production-ready AI applications** — from intelligent agents to RAG pipelines
 - ⚡ Full-stack background with **React** on the frontend and **FastAPI** on the backend
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / GenAI**
 
@@ -46,20 +46,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧠 Legal Query Assistant](https://github.com/sujalambatkar/legal-query-assistant) | AI-powered legal document Q&A | Python, RAG, LLMs |
-| [📈 AI Stock Intelligence](https://github.com/sujalambatkar/ai-stock-intelligence-service) | Real-time stock analysis with AI | JavaScript, AI APIs |
-| [🏥 ICU Patient Monitoring](https://github.com/sujalambatkar/icu-patient-monitoring) | Intelligent ICU patient tracker | Python, AI |
-| [📋 Medical Report Summarizer](https://github.com/sujalambatkar/medical-report-summarizer) | Summarizes medical reports using LLMs | Python, LLMs |
-| [🔒 Gate Monitoring](https://github.com/sujalambatkar/gate-monitoring) | Smart gate monitoring system | TypeScript |
-| [🌍 SaharaAI](https://github.com/sujalambatkar/SaharaAI) | AI-powered application | Python |
+| [Legal Query Assistant](https://github.com/sujalambatkar/legal-query-assistant) | AI-powered legal document Q&A | Python, RAG, LLMs |
+| [AI Stock Intelligence](https://github.com/sujalambatkar/ai-stock-intelligence-service) | Real-time stock analysis with AI | JavaScript, AI APIs |
+| [ICU Patient Monitoring](https://github.com/sujalambatkar/icu-patient-monitoring) | Intelligent ICU patient tracker | Python, AI |
+| [Medical Report Summarizer](https://github.com/sujalambatkar/medical-report-summarizer) | Summarizes medical reports using LLMs | Python, LLMs |
+| [Gate Monitoring](https://github.com/sujalambatkar/gate-monitoring) | Smart gate monitoring system | TypeScript |
+| [SaharaAI](https://github.com/sujalambatkar/SaharaAI) | AI-powered application | Python |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujalambatkar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -72,14 +72,14 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/sujalambatkar">
     <img src="https://img.shields.io/badge/GitHub-sujalambatkar-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:sujal121204@email.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
