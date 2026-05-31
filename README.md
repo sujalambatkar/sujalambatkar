@@ -51,7 +51,7 @@
 |---|---|---|
 | [Data Analyst Agent](https://github.com/sujalambatkar/data-analyst-agent) | AI-powered data analysis and insights agent | Python, LangChain, LLMs |
 | [Lumina Student Intelligence System](https://github.com/sujalambatkar/lumina-study-platform) | AI-driven student learning platform | Next.js, FastAPI, Groq API, LLaMA |
-| [Debate Coach](https://github.com/sujalambatkar/debate-coach) | AI argument coach with real-time feedback | Python, LLMs |
+| [Debate Coach](https://github.com/sujalambatkar/debate-coach) | AI argument coach with real-time feedback | Python, Next.js, FastAPI, Groq API, LLaMA |
 | [Gate Monitoring](https://github.com/sujalambatkar/gate-monitoring) | Smart gate monitoring system | Python, YOLOv8, OpenCV |
 | [AI Stock Intelligence](https://github.com/sujalambatkar/ai-stock-intelligence-service) | Real-time stock analysis with AI | JavaScript, AI APIs |
 
