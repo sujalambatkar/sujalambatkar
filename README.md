@@ -45,17 +45,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Legal Query Assistant](https://github.com/sujalambatkar/legal-query-assistant) | AI-powered legal document Q&A | Python, RAG, LLMs |
+| [Data Analyst Agent](https://github.com/sujalambatkar/data-analyst-agent) | AI-powered data analysis and insights agent | Python, LangChain, LLMs |
+| [Lumina Student Intelligence System](https://github.com/sujalambatkar/lumina-study-platform) | AI-driven student learning platform | Next.js, FastAPI, Groq API, LLaMA |
+| [Debate Coach](https://github.com/sujalambatkar/debate-coach) | AI argument coach with real-time feedback | Python, LLMs |
+| [Gate Monitoring](https://github.com/sujalambatkar/gate-monitoring) | Smart gate monitoring system | Python, YOLOv8, OpenCV |
 | [AI Stock Intelligence](https://github.com/sujalambatkar/ai-stock-intelligence-service) | Real-time stock analysis with AI | JavaScript, AI APIs |
-| [ICU Patient Monitoring](https://github.com/sujalambatkar/icu-patient-monitoring) | Intelligent ICU patient tracker | Python, AI |
-| [Medical Report Summarizer](https://github.com/sujalambatkar/medical-report-summarizer) | Summarizes medical reports using LLMs | Python, LLMs |
-| [Gate Monitoring](https://github.com/sujalambatkar/gate-monitoring) | Smart gate monitoring system | TypeScript |
-| [SaharaAI](https://github.com/sujalambatkar/SaharaAI) | AI-powered application | Python |
 
 ---
 
