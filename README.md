@@ -57,19 +57,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalambatkar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalambatkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalambatkar&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
